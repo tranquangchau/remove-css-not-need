@@ -1,8 +1,2 @@
 .wrapper_header_middle
 .wrapper_body_right
-table, caption, tbody, tfoot, thead, tr, th, td
-article, aside, details, figcaption, figure,  footer, header, hgroup, menu, nav, section
-blockquote, q
-blockquote:before, blockquote:after, q:before, q:after
-table
-.content_editor

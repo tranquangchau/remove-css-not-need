@@ -5,7 +5,7 @@ require_once(dirname(__FILE__) . '/bootstrap.php');
 //$oParser = new Sabberworm\CSS\Parser(file_get_contents('php://stdin'));
 //$oParser = new Sabberworm\CSS\Parser(file_get_contents('files/mid.css'));
 //$file_read ="files/values.css";
-$file_read = "files/reset.css";
+$file_read = "files/main.css";
 $oParser = new Sabberworm\CSS\Parser(file_get_contents($file_read));
 $oDoc = $oParser->parse();
 
@@ -15,7 +15,7 @@ $oDoc = $oParser->parse();
 $after = $oDoc->aContents;
 
 /////////////////////load file danh sach cac key can xoa
-$file_list = "files_xoa/reset.txt";
+$file_list = "files_xoa/main.txt";
 $file = fopen($file_list, "r");
 //$data_file_read =  fgets($file);
 $i = 0;
