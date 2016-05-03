@@ -1,0 +1,29 @@
+table, caption, tbody, tfoot, thead, tr, th, td
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section
+blockquote, q
+blockquote:before, blockquote:after, q:before, q:after
+table
+.content_editor
+.content_editor .cke_editable
+.content_editor blockquote
+.content_editor .cke_contents_ltr blockquote
+.content_editor .cke_contents_rtl blockquote
+.content_editor a
+.content_editor ol, .content_editor ul, .content_editor dl
+.content_editor h1, .content_editor h2, .content_editor h3, .content_editor h4, .content_editor h5, .content_editor h6
+.content_editor strong
+h1
+.content_editor h4
+.reposive_image
+.reposive_image img
+.content_editor hr
+.content_editor img.right
+.content_editor img.left
+.content_editor pre
+.content_editor .marker
+.content_editor span[lang]
+.content_editor figure
+.content_editor figure > figcaption
+.content_editor a > img
+.content_editor strong
+.content_editor p

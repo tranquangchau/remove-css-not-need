@@ -1,0 +1,141 @@
+.wrapper_header{
+	clear: both;
+}
+.wrapper_header_top{
+	height: auto;
+	
+	border-bottom: 4px solid #FD3636;
+}
+
+.wrapper_header_middle{
+ height: 100px;
+}
+
+.wrapper_header_bottom{
+	
+}
+
+.wrapper_main_menu{
+	background-color: #333333;
+}
+
+.wrapper_body{
+	clear: both;
+	padding: 30px;
+	  position: relative;
+  z-index: 1;
+  background: url("img/main-container.gif") repeat-x center top #fff;
+}
+.wrapper_body_left{
+	margin: 0px 30px 0px 0px;
+}
+.wrapper_body_right{
+	margin: 0px 0px 0px 30px;
+}
+
+.wrapper_footer{
+	clear: both;
+}
+.wrapper_footer_top{
+	
+}
+.wrapper_footer_middle{
+	padding: 56px 0 30px;
+  overflow: hidden;
+  background: #333333;
+}
+.wrapper_footer_middle .footer_middle{
+	
+}
+
+.wrapper_footer_bottom{
+	padding: 10px 0px;
+  overflow: hidden;
+  background: #000;
+}
+
+
+
+/*BLOCK VERTICAL*/
+.case_block_vertical{
+	  position: relative;
+  z-index: 4;
+  box-shadow: 0 0 13px rgba(0,0,0,0.14);
+  -moz-box-shadow: 0 0 13px rgba(0,0,0,0.14);
+  -webkit-box-shadow: 0 0 13px rgba(0,0,0,0.14);
+    margin: 0px 0px 30px 0px;
+}
+.case_block_vertical .header_block_vertical{
+	  font-size: 20px;
+  font-family: serif;
+  color: #fff;
+  background: #333333;
+  border-bottom: 4px solid #fd3636;
+  height: 51px;
+  line-height: 42px;
+  padding: 0 18px;
+}
+.case_block_vertical .content_block_vertical{
+	
+}
+
+
+
+/*BLOCK VERTICAL*/
+.case_block_bottom{
+ 
+}
+
+.case_block_bottom .header_block_bottom{
+   font-family: 'Roboto',sans-serif;
+  position: relative;
+  font-weight: normal;
+  font-size: 20px;
+  color: #fff;
+  /* margin-bottom: 11px; */
+  text-transform: capitalize;
+  border-bottom: 1px solid #ccc;
+  margin: 10px 20px;
+  padding: 0px 0px 5px 0px;
+}
+.case_block_bottom .content_block_bottom{
+	margin: 10px 20px;
+}
+
+/*BLOCK MIDDE*/
+.case_block_middle{
+    margin: 20px 0px 20px 0px;
+}
+
+.case_block_middle .header_block_middle{
+
+    font-family: serif;
+  background: #333333;
+  padding: 8px 18px 12px;
+  margin-bottom: 20px;
+  position: relative;
+  border-bottom: 4px solid #999999;
+  font-size: 22px;
+  line-height: 22px;
+  color: #ffffff;
+  font-weight: normal;
+  
+}
+.case_block_middle .content_block_middle{
+
+}
+
+
+/*statistic*/
+.block-stat{
+	  padding: 10px 0px;
+}
+.block-stat ul{
+	
+}
+.block-stat ul li{
+	  padding: 0px 20px;
+}
+.block-stat ul li:nth-of-type(2n){
+	background-color: #f5f5f5;
+}
