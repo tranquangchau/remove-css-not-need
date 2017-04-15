@@ -1,6 +1,6 @@
 <h1>Read tag class css</h1>
 <?php
-
+error_reporting(0);
 
 require_once(dirname(__FILE__) . '/bootstrap.php');
 
